@@ -1,0 +1,7 @@
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\bin\Debug\rudyLab1Dates.exe.config
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\bin\Debug\rudyLab1Dates.exe
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\bin\Debug\rudyLab1Dates.pdb
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\obj\Debug\rudyLab1Dates.csprojAssemblyReference.cache
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\obj\Debug\rudyLab1Dates.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\obj\Debug\rudyLab1Dates.exe
+c:\users\max\source\repos\rudyLab1Dates\rudyLab1Dates\obj\Debug\rudyLab1Dates.pdb
